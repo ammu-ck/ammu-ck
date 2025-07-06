@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @ammu-ck
-- 👀 I’m interested in AI and ML.
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Chanchal Kumar
+
+🚀 I'm on a journey to grow every day.
+
+📌 Interests:  
+- 🤖 Data Science and AI  
+- 🌐 Full Stack Web Development  
+
+🛠️ Skills:  
+- 🐍 Python  
+- 💾 SQL  
+- 🧱 HTML, 🎨 CSS, ⚙️ JavaScript  
+- 🧠 Learning Machine Learning  
+- 🔧 Using Git and GitHub for version control
+
+💡 I believe in learning by doing.  
+📂 Explore my repositories to see what I'm building.
 
 <!---
 ammu-ck/ammu-ck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
