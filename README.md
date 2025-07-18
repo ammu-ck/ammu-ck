@@ -14,7 +14,7 @@
 - 🧮 C++
 - 🔧 Git and GitHub for version control
 
-📂 Explore my repositories to see what I'm building.
+📂 Explore my repositories to see what I'm Learning.
 <!---
 ammu-ck/ammu-ck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
